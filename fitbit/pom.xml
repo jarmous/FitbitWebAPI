@@ -14,7 +14,7 @@
 		<jdk.version>1.8</jdk.version>
 		<jdk.version.target>1.8</jdk.version.target>
 		<hibernate.version>5.4.2.Final</hibernate.version>
-		<jackson.version>2.9.8</jackson.version>
+		<jackson.version>2.9.10.8</jackson.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
   
